@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="enter_time_in_mins">Enter Time in Mins</string>
+    <string name="starting_a_timer_app_project_all_the_best">Starting a Timer App Project... ALL THE BEST</string>
+</resources>
